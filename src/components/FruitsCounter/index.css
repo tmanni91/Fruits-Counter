@@ -1,0 +1,45 @@
+.fruitsContainer {
+  background-color: #ffd569;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.card-container {
+  background-color: #ffffff;
+  margin: 26px;
+  padding: 12px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 18px;
+}
+.image {
+  height: 200px;
+  width: 200px;
+  padding: 12px;
+}
+.fruitContainer {
+  display: flex;
+  flex-direction: row;
+  padding: 12px;
+}
+.fruitCard {
+  display: flex;
+  flex-direction: column;
+  padding: 12px;
+}
+.mangoButton {
+  color: #ffffff;
+  font-family: 'roboto';
+  font-size: 13px;
+  padding: 5px;
+  border: 0px;
+  background-color: blue;
+  border-radius: 8px;
+}
+.count {
+  color: #ffd569;
+}
